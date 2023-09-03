@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="la">Funds App can give a instant loan to help everyone in the US who needs money to grow their businesses, go shopping or finance any other emergencies.</string>
+    <string name="lb">1.Product:</string>
+    <string name="lc">• Loan Amount: $10 – $500</string>
+    <string name="ld">• Loan period: 90 days - 365 days</string>
+    <string name="le">Maximum loan limit: $500</string>
+    <string name="lf">Low interest (maximum APR): 12% per year</string>
+    <string name="lg">For example: for loans of $200 with a term during 90 days, the fees charged are as follows:</string>
+    <string name="lh">Monthly interest rate ： 12% / 12 = 1.00%</string>
+    <string name="li">Monthly interest ： $200 * 1.00% = $2</string>
+    <string name="lj">Total monthly payment ：$200 / 3 + $2 = $68.67</string>
+    <string name="lk">Total repayment bill including principle and interest shall be:</string>
+    <string name="ll">$200 + $200* 1.00%*3 = $206</string>
+    <string name="lm">1.Why loan from Funds App?</string>
+    <string name="ln">• No Credit report required</string>
+    <string name="lo">• Paperless and digital process on your mobile</string>
+    <string name="lp">• No collateral requirements</string>
+    <string name="lq">• Get 7/24 access to loan anytime and anywhere</string>
+    <string name="lr">• Disburse to your Bank Account directly within 30 minutes once approved</string>
+    <string name="ls">• Available across the US.</string>
+    <string name="lt">• As the credit score grows, the loan limit gradually increases</string>
+    <string name="lu">• Variety of convenient repayment methods</string>
+    <string name="lv">• Can apply for loan extension if you don\'t have enough money to repay</string>
+    <string name="lw">2.Who can apply for loan</string>
+    <string name="lx">• US Resident</string>
+    <string name="lz">• 18-60 years old</string>
+    <string name="ma">• Has a source of income.</string>
+    <string name="mb">3.How to repay the loan?</string>
+    <string name="mc">You can repay us through our bank account no which you will be provided to you once you borrow your loan.</string>
+    <string name="md">• Enter any amount you want to pay</string>
+    <string name="me">• Good repayment will increase your credit score</string>
+    <string name="mf">4.Security</string>
+    <string name="mg">Your data is safe with us. It is transferred over a secure HTTPS connection to us, and we do not share it with anyone without your consent except the Lenders. All the transactions are secured via a 128-bit SSL encryption.</string>
+    <string name="mh">5.CONTACT US!</string>
+    <string name="mi">If you have any question you can email us at vclxservices@yahoo.com</string>
+
+</resources>

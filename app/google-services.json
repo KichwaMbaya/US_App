@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1738100198",
+    "project_id": "usapp-60cb7",
+    "storage_bucket": "usapp-60cb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1738100198:android:c82d57fa269b17e6c79a27",
+        "android_client_info": {
+          "package_name": "com.justkeepfaith.morioanzenza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1738100198-3v7e691nifstqpbm2p35150ao8qhe5ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Ryu8HDwWvY3VvXlqsLycmX4C0V4--EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1738100198-3v7e691nifstqpbm2p35150ao8qhe5ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
